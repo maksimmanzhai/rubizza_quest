@@ -1,1 +1,9 @@
-cv.yml
+name:
+  first: Maksim
+  last: Manzhai
+contacts:
+  email: maxbbb88@gmail.com
+  phone: +375298623239
+  github: maksimmanzhai
+  telegram: Maksim_MM
+education: BSUIR
